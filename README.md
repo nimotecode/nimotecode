@@ -22,19 +22,13 @@ NimoteCode is a **mobile-first IDE** designed for real development workflows on 
 
 ## 🚀 Project
 
-**NimoteCode** — Mobile IDE for real development workflows
-
-👉 https://github.com/nimotecode/nimotecode
-
----
+**NimoteCode** — Mobile IDE for real development workflows: https://github.com/nimotecode-mobile-ide
 
 ## 🌐 Links
 
 - Website: https://nimotecode.com  
 - X: https://x.com/nimotecode  
-- GitHub: https://github.com/nimotecode-mobile-ide  
-
----
+- GitHub: https://github.com/nimotecode
 
 ## 📌 Now
 
