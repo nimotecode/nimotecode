@@ -46,44 +46,6 @@ Instead of being a lightweight code viewer, NimoteCode focuses on complete devel
 
 Built with **Flutter + Rust** for performance and cross-platform consistency.
 
-## ✨ Core Features
-
-### 📱 Mobile Code Editor
-
-- Multi-tab editing
-- Large project support
-- Syntax highlighting
-- Code navigation
-- Search & replace
-
-### 🌐 SSH Workspace
-
-- Connect to Linux servers
-- Remote project editing
-- SFTP file management
-- Persistent SSH sessions
-
-### ⚡ Integrated Terminal
-
-- Interactive shell
-- Multiple terminal sessions
-- Development toolchains
-- Command execution
-
-### 🌿 Git Workflow
-
-- Status overview
-- Commit & push
-- Branch management
-- Remote synchronization
-
-### 🤖 AI Development
-
-- Code generation
-- Refactoring assistance
-- Debugging support
-- Workflow acceleration
-
 ## 🏗️ Tech Stack
 
 <p align="center">
