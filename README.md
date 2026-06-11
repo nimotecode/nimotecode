@@ -1,75 +1,66 @@
 <!-- HEADER -->
-<h1 align="center">Hi 👋 I'm the builder behind NimoteCode</h1>
+<h1 align="center">Hi 👋 I'm building NimoteCode</h1>
 
 <p align="center">
-  Mobile-first IDE for coding, SSH workspaces & AI-assisted development
+  Mobile-first IDE for SSH workspaces, coding & AI-assisted development
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Mobile+Developer+Tools;Flutter+%2B+Rust+Engineer;SSH+IDE+%7C+AI+Workflow+Builder;Turning+Mobile+into+Real+Dev+Machine&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Mobile+Developer+Tools;Flutter+%2B+Rust+Stack;SSH+IDE+%7C+AI+Workflow;Turning+Mobile+into+Real+Dev+Machine&center=true&width=520&height=40">
 </p>
 
 ---
 
-## ⚡ About NimoteCode
+## ⚡ About
 
-> A mobile-first IDE designed for real development workflows on phones & tablets.
+NimoteCode is a **mobile-first IDE** designed for real development workflows on phones and tablets.
 
-- 📱 Local & remote SSH workspaces
-- 🧑‍💻 Full code editing experience on mobile
-- ⚡ Terminal + Git integration
-- 🤖 AI-assisted coding workflows
+- 📱 Local + SSH remote development
+- 🧑‍💻 Full-feature mobile code editor
+- ⚡ Terminal + Git workflow
+- 🤖 AI-assisted coding
 - 🚧 Built with Flutter + Rust
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,rust,python,git,linux,android,ios" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,rust,git,linux,android,ios" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nimotecode&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nimotecode&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimotecode&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nimotecode&theme=tokyo-night" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimotecode&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Project
 
-### NimoteCode
-Mobile IDE for real development workflows on Android & iOS
+**NimoteCode** — Mobile IDE for real development workflows
 
 👉 https://github.com/nimotecode/nimotecode
 
 ---
 
-## 🌐 Connect
+## 🌐 Links
 
-- X (Twitter): https://x.com/nimotecode
-- GitHub: https://github.com/nimotecode-mobile-ide
-- Website: https://nimotecode.com
+- Website: https://nimotecode.com  
+- X: https://x.com/nimotecode  
+- GitHub: https://github.com/nimotecode-mobile-ide  
 
 ---
 
-## 📌 Currently
+## 📌 Now
 
-- 🔥 Building mobile-first developer tools
-- 🚀 Preparing NimoteCode launch
-- 🧪 Experimenting with AI coding workflows
+- Building mobile-first dev tools  
+- Preparing public launch  
+- Exploring AI-native coding workflows
