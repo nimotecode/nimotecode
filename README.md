@@ -42,6 +42,7 @@ Instead of being a lightweight code viewer, NimoteCode focuses on complete devel
 - 🌿 Git workflow
 - 🤖 AI-assisted coding
 - 📂 Project management
+- 📳 sync code between local and ssh remote env
 - 🔍 Syntax highlighting & code intelligence
 
 Built with **Flutter + Rust** for performance and cross-platform consistency.
