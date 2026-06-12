@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-Build, SSH, Terminal, Git and AI — all from your phone.
+Build, SSH, Terminal, Git and AI — all from your phone & tablet.
 </h3>
 
 <p align="center">
